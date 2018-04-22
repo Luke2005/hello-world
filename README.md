@@ -1,2 +1,4 @@
 # hello-world
-Coding lesson files in here. Please don't delete
+First File
+Hi! I'm Luke! my favorite language is C++! 
+I Like Cheese
